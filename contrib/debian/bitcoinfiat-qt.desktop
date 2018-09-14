@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoinfiat
+Comment=Bitcoinfiat P2P Cryptocurrency
+Comment[fr]=Bitcoinfiat, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitcoinfiat, eşten eşe kriptografik sanal para birimi
+Exec=bitcoinfiat-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoinfiat128
+MimeType=x-scheme-handler/bitcoinfiat;
+Categories=Office;Finance;
